@@ -1,0 +1,22 @@
+[ 2023-08-06 15:14:56,204 ] 225 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-06 15:14:56,206 ] 225 werkzeug - INFO -  * Debugger PIN: 414-455-134
+[ 2023-08-06 15:14:56,251 ] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[ 2023-08-06 15:14:56,251 ] 225 werkzeug - INFO -  * Running on http://192.168.90.81:5000/ (Press CTRL+C to quit)
+[ 2023-08-06 15:14:59,673 ] 225 werkzeug - INFO - 127.0.0.1 - - [06/Aug/2023 15:14:59] "GET / HTTP/1.1" 200 -
+[ 2023-08-06 15:15:13,180 ] 225 werkzeug - INFO - 127.0.0.1 - - [06/Aug/2023 15:15:13] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-06 15:15:25,246 ] 225 werkzeug - INFO - 127.0.0.1 - - [06/Aug/2023 15:15:25] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-06 15:36:21,827 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\app.py', reloading
+[ 2023-08-06 15:36:21,830 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\setup.py', reloading
+[ 2023-08-06 15:36:21,830 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\__init__.py', reloading
+[ 2023-08-06 15:36:21,831 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\components\\__init__.py', reloading
+[ 2023-08-06 15:36:21,831 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\components\\data_ingestion.py', reloading
+[ 2023-08-06 15:36:21,831 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\components\\data_transformation.py', reloading
+[ 2023-08-06 15:36:21,832 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\components\\model_trainer.py', reloading
+[ 2023-08-06 15:36:21,832 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\exception.py', reloading
+[ 2023-08-06 15:36:21,832 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\logger.py', reloading
+[ 2023-08-06 15:36:21,832 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\pipeline\\__init__.py', reloading
+[ 2023-08-06 15:36:21,832 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2023-08-06 15:36:21,833 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\pipeline\\train_pipeline.py', reloading
+[ 2023-08-06 15:36:21,833 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\src\\utils.py', reloading
+[ 2023-08-06 15:36:21,833 ] 225 werkzeug - INFO -  * Detected change in 'C:\\Users\\PC-KSS\\mlproject-main\\tst.py', reloading
